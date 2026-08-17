@@ -1,0 +1,4 @@
+obj/
+src/bin/
+*.user
+*.suo
